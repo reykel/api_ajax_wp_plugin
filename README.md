@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin connect your site to an API REST and offer you to make a search via ajax. It also provide you with a setting menu in the WP dashboard. It uses for it the free https://www.thecocktaildb.com/ API.
+This plugin has been made with educational purposes. It shows you by example how to connect your site to an API REST and to make a search in it via ajax. It also provide you with a setting menu in the WP dashboard. It uses for it the free https://www.thecocktaildb.com/ API.
 
 == Installation ==
 
