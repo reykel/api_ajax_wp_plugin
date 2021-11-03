@@ -1,6 +1,6 @@
 # api_ajax_wp_plugin
 === Plugin Name ===
-Contributors: reykel, kwanxa
+Contributors: reykel, Adaved
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
