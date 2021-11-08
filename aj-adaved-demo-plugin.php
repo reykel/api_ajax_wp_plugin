@@ -2,7 +2,7 @@
 /*
 Plugin Name: AJAX Users Demo
 Description: Ajax demo for Users's API handle. It works placing a shortcode like this [ajax_demo] in a WP page
-Author: Reynier Hernandez 
+Author: Reykel 
 Version: 1.0
 */
 
